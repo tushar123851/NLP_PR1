@@ -132,14 +132,10 @@ NLP_PR1/
 ├── sentiment_model.joblib
 ├── requirements.txt
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── assets/
 │   └── nlp-dashboard.png
-│
-└── .streamlit/
-    └── config.toml
+
 ```
 
 **File descriptions:**
@@ -152,10 +148,7 @@ NLP_PR1/
 | `sentiment_model.joblib` | Trained ML pipeline |
 | `requirements.txt` | Required Python packages |
 | `README.md` | Project documentation |
-| `LICENSE` | Project license |
-| `.gitignore` | Files excluded from GitHub |
 | `assets/` | Project screenshots |
-| `.streamlit/` | Streamlit configuration |
 
 ---
 
